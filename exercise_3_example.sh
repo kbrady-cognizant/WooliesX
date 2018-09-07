@@ -35,4 +35,4 @@ curl -X POST --header 'Content-Type: application/json-patch+json' --header 'Acce
       "quantity": 12
     }
   ]
-}' 'https://mf4x0dcc99.execute-api.ap-southeast-2.amazonaws.com/default/trolleyCalculator'
+}' 'https://mf4x0dcc99.execute-api.ap-southeast-2.amazonaws.com/default/trolleyCalculator/trolleyTotal'
